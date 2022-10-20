@@ -1,6 +1,5 @@
 # MicrofinnScore
- 
-# Credit Sense
+
 
  <img src="/images/mfin.png" width="150" align= "center"/>
 
