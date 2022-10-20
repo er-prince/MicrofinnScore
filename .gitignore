@@ -1,0 +1,11 @@
+/bank_node/env
+/bank_node/API/credentials.json
+/bank_node/API/.idea/
+.DS_Store
+node_modules
+ml_helper.pyc
+__pycache__
+
+nbproject
+npm-debug.log
+.sass-cache
